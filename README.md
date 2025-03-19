@@ -10,6 +10,10 @@ Results indicate that the benefits OVS gains from the ability to predict and pre
 
 [Thesis](thesis/Improving_Megaflow_Cache_Performance_in_Open_vSwitch_with_Coflow-Aware_Branch_Prediction.pdf)
 
+[DiVA](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-361030)
+
+[PDF at DiVA](https://kth.diva-portal.org/smash/get/diva2:1943521/FULLTEXT02.pdf)
+
 [Presentation](https://youtu.be/ddpIN-swy2w?si=e8LfnuZkCXNVF3xA)
 
 [Presentation OVSCON 2024](https://youtu.be/Z55xcDCCxgo?si=a4ksMEN8CLHtvgmL)
