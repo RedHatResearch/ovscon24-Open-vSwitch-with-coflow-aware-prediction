@@ -8,7 +8,7 @@ Results indicate that the benefits OVS gains from the ability to predict and pre
 
 #### Keywords: Open vSwitch, Software-Defined Networking, Slow path, Coflows
 
-[Paper](paper/Enabling_traffic_prediction_in_virtual_switching_A_case_study.pdf)
+[Paper](paper/ANRW-2025.pdf)
 
 [Thesis](thesis/Improving_Megaflow_Cache_Performance_in_Open_vSwitch_with_Coflow-Aware_Branch_Prediction.pdf)
 
